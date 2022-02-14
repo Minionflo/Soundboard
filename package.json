@@ -1,0 +1,20 @@
+{
+  "name": "soundboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minionflo/Soundboard.git"
+  },
+  "keywords": [],
+  "author": "Minionflo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minionflo/Soundboard/issues"
+  },
+  "homepage": "https://github.com/Minionflo/Soundboard#readme"
+}
