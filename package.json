@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Minionflo/Soundboard/issues"
   },
-  "homepage": "https://github.com/Minionflo/Soundboard#readme"
+  "homepage": "https://github.com/Minionflo/Soundboard#readme",
+  "dependencies": {
+    "@tmigone/pulseaudio": "^1.0.4",
+    "express": "^4.17.2",
+    "pulseaudio.js": "^1.2.0",
+    "wav": "^1.0.2"
+  }
 }
+
